@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Personal Profile</title>
+</head>
+
+<body>
+
+    <h1>Hello! I'm Pyae Wai Yan Naing</h1>
+    <h2>Information Technology Student</h2>
+
+    <hr/>
+
+    <h2>My Profile</h2>
+
+    <img src="basic html/image/image1.webp"
+         alt="My Profile Picture"
+         width="200"/>
+
+    <hr/>
+
+    <h2>About Me</h2>
+
+    <p>
+        I am an Information Technology student at
+        Assumption University in Thailand.
+    </p>
+
+    <p>
+        I am interested in technology, programming, and
+        learning new things.
+    </p>
+
+    <hr/>
+
+    <h2>My Hobbies</h2>
+
+    <ul>
+        <li>Playing video games</li>
+        <li>Reading novels and manga</li>
+        <li>Learning programming</li>
+        <li>Exploring technology</li>
+        <li>Creating my own strategy game</li>
+    </ul>
+
+    <hr/>
+
+    <h2>My Skills</h2>
+
+    <table border="1">
+        <tr>
+            <th>Skill</th>
+            <th>Level</th>
+        </tr>
+
+        <tr>
+            <td>Python</td>
+            <td>Beginner</td>
+        </tr>
+
+        <tr>
+            <td>Java</td>
+            <td>Beginner</td>
+        </tr>
+
+        <tr>
+            <td>HTML</td>
+            <td>Beginner</td>
+        </tr>
+
+        <tr>
+            <td>SQL</td>
+            <td>Beginner</td>
+        </tr>
+    </table>
+
+    <hr/>
+
+    <p>Thank you for visiting my profile!</p>
+
+</body>
+
+</html>
